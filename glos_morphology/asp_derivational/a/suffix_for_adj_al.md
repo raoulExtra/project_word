@@ -1,7 +1,7 @@
 # -al
 
 ## Definition
-The suffix **-al** is a derivational suffix in English that transforms adjectives or nouns into adjectives, typically meaning "relating to," "having the nature of," or "pertaining to" a root concept.
+The suffix **-al** is a derivational suffix in English that transforms nouns into adjectives, typically meaning "relating to," "having the nature of," or "pertaining to" a root concept.
 
 ## Details
 - **Part of speech**: Suffix (derivational morpheme)
