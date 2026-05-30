@@ -1,3 +1,12 @@
+---
+id: def_pattern
+name: pattern
+kind: concept
+status: active
+domain: engineering_of_ontologies
+subdomain: structural_aspect
+---
+
 # Pattern
 
 ## Definition

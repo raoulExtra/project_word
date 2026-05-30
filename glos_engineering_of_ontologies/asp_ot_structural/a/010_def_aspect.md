@@ -1,11 +1,20 @@
+---
+id: def_aspect
+name: aspect
+kind: concept
+status: active
+domain: engineering_of_ontologies
+subdomain: structural_aspect
+---
+
 # Aspect
 
 ## Definition
 In linguistics and ontology engineering, aspect is a grammatical category that expresses the temporal structure of a situation or event, distinguishing between ongoing, completed, habitual, or repetitive actions.
 
 ## Details
-- **Part of speech**: Grammatical category (can be nominalized as a noun)
 - **Ontological role**: A structural dimension for modeling temporal and event-based relationships
+- **Purpose**: Enables temporal reasoning and event semantics in knowledge graphs
 - **Key distinctions**:
   - **Perfective**: Views action as a complete whole
   - **Imperfective**: Views action as ongoing or habitual

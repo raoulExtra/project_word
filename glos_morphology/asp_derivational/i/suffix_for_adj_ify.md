@@ -1,3 +1,14 @@
+---
+id: suffix_for_adj_ify
+name: -ify
+kind: suffix
+status: active
+domain: morphology
+subdomain: derivational
+transformation: adjective|verb
+function: verbalizer
+---
+
 # -ify
 
 ## Definition
@@ -23,3 +34,12 @@ The -ify suffix expresses stable transformation - creating verbs that denote mak
 
 ## Context
 In morphology and word formation studies, -ify represents a productive derivational pattern that enables speakers to create new verbs expressing causative or transformitive meanings from existing lexical items.
+
+## See Also
+- See `suffix_for_adj.md` for general guide to adjective suffixes
+
+## Extend
+This file can be extended with:
+- Additional examples from other languages
+- Historical development of the suffix
+- Cross-linguistic comparison

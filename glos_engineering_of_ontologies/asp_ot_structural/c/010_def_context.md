@@ -1,3 +1,12 @@
+---
+id: def_context
+name: context
+kind: concept
+status: active
+domain: engineering_of_ontologies
+subdomain: structural_aspect
+---
+
 # Context
 
 ## Definition

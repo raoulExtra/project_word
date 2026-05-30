@@ -1,3 +1,12 @@
+---
+id: def_domain
+name: domain
+kind: concept
+status: active
+domain: engineering_of_ontologies
+subdomain: structural_aspect
+---
+
 # Domain
 
 ## Definition
