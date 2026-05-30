@@ -98,6 +98,7 @@ def wd_lookup(word, word_type=None):
             homograph_lexeme_ids = list(set(homograph_ids))
             
             return {
+                'word': lemma,
                 'lexeme_id': lexeme_id,
                 'lexical_category': lexical_category,
                 'language': 'en',
@@ -114,7 +115,7 @@ def save_to_cache(word, data):
     lexical_category = data.get('lexical_category', 'verb')
     path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'wd_cache', 'lang_en', lexical_category, word[0], f'wd_{word}.json')
     os.makedirs(os.path.dirname(path), exist_ok=True)
-    data_with_timestamp = {**data, 'updated': datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z')}
+    data_with_timestamp = {**data, 'word': word, 'updated': datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z')}
     with open(path, 'w') as f:
         json.dump(data_with_timestamp, f, indent=2)
 
