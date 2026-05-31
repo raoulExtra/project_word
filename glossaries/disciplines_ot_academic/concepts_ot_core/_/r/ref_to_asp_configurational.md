@@ -4,4 +4,4 @@ name: asp configurational
 kind: reference
 ---
 
-[Configurational](../../../../_/c/asp_configurational.md)
+[Configurational](../c/asp_configurational.md)

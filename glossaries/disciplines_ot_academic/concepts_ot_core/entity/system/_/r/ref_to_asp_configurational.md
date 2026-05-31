@@ -9,4 +9,4 @@ extends: core_concepts_guide
 
 # Reference
 
-**Related Aspect**: [ASP Configurational](glossaries/disciplines_ot_academic/concepts_ot_core/_/c/asp_configurational.md)
+**Related Aspect**: [ASP Configurational](../../../../_/c/asp_configurational.md)
