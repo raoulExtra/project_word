@@ -1,18 +1,19 @@
 ---
-id: suffix_for_verb_tion
-name: -tion/-tion
+id: suffix_for_noun_tion
+name: -tion/-sion
 kind: doc_entity_ot_oo
 status: active
 domain: morphology
 subdomain: derivational
 transformation: verb|noun
 function: nominalizer
+extends: suffix_for_noun_guide
 ---
 
-# -tion / -sion (Nominalization Suffixes)
+# -tion / -sion
 
 ## Definition
-The suffixes **-tion** and **-sion** are derivational suffixes in English that transform verbs into nouns, typically meaning "the act or process of," "the result of," or "a quality of."
+The suffixes **-tion** and **-sion** are derivational suffixes that transform verbs into nouns, meaning "the act or process of," "the result of," or "a quality of."
 
 ## Details
 - **Part of speech**: Suffix (derivational morpheme)
@@ -22,17 +23,14 @@ The suffixes **-tion** and **-sion** are derivational suffixes in English that t
   - **act** → **action**
   - **compute** → **computation**
   - **decide** → **decision**
-  - **vision** → **vision** (from see)
+  - **create** → **creation**
 
 ## Pattern
-- **Input**: Verb root (usually Latinate)
+- **Input**: Verb root (typically Latinate)
 - **Output**: Abstract noun expressing action, state, or quality
-- **Selection rule**: 
+- **Selection rule**:
   - **-tion**: after c, t, or soft c (action, creation, education)
   - **-sion**: after s, ss, or soft c (decision, confusion, emission)
 
 ## Context
 In morphology and word formation studies, -tion/-sion represents a major nominalization pattern, especially common in academic and technical vocabulary.
-
-## See Also
-- See `suffix_for_adj.md` for general guide to adjective suffixes

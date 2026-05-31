@@ -1,7 +1,8 @@
 ---
 id: suffix_for_adj_ous
 name: -ous
-kind: suffix
+extends: suffix_for_adj_guide
+kind: doc_entity_ot_oo
 status: active
 domain: morphology
 subdomain: derivational
@@ -12,25 +13,14 @@ function: qualifier
 # -ous
 
 ## Definition
-The suffix **-ous** is a derivational suffix in English that transforms adjectives into adjectives, meaning "full of" or "characterized by" the quality specified by the root.
+Transforms adjectives into adjectives meaning "full of" or "characterized by."
 
-## Details
-- **Part of speech**: Suffix (derivational morpheme)
-- **Function**: Qualifier - creates descriptive adjectives
-- **Semantic effect**: Indicates presence of a quality or state
-- **Examples**:
-  - **danger** → **dangerous** (full of danger)
-  - **fear** → **fearful** (full of fear)
-  - **glory** → **glorious** (full of glory)
-  - **success** → **successful** (full of success)
+## Examples
+- **danger** → **dangerous**, **fear** → **fearful**, **glory** → **glorious**
 
 ## Pattern
 - **Input**: Noun or adjective root
 - **Output**: Adjective meaning "full of" or "characterized by"
-- **Note**: Often creates qualitative or emotional descriptions
-
-## Context
-In morphology and word formation studies, -ous represents a productive suffix that creates adjectives expressing various states, emotions, or conditions.
 
 ## See Also
 - See `suffix_for_adj.md` for general guide to adjective suffixes

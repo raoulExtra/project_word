@@ -1,7 +1,8 @@
 ---
 id: suffix_for_adj_or
 name: -or
-kind: suffix
+extends: suffix_for_adj_guide
+kind: doc_entity_ot_oo
 status: active
 domain: morphology
 subdomain: derivational
@@ -12,25 +13,14 @@ function: agent_noun
 # -or
 
 ## Definition
-The suffix **-or** is a derivational suffix in English that transforms verbs into nouns, meaning "one who performs" or "thing that performs" the action specified by the root.
+Transforms verbs into nouns meaning "one who performs" or "thing that performs."
 
-## Details
-- **Part of speech**: Suffix (derivational morpheme)
-- **Function**: Agent noun creator - identifies performer
-- **Semantic effect**: Indicates the actor performing an action
-- **Examples**:
-  - **teach** → **teacher** (one who teaches)
-  - **act** → **actor** (one who acts)
-  - **paint** → **painter** (one who paints)
-  - **write** → **writer** (one who writes)
+## Examples
+- **teach** → **teacher**, **act** → **actor**, **write** → **writer**
 
 ## Pattern
 - **Input**: Verb root (typically Latinate)
 - **Output**: Agent noun identifying performer
-- **Note**: Distinguishes human agents (-or) from things (-er)
-
-## Context
-In morphology and word formation studies, -or represents a major agent-noun pattern, especially common in academic and professional terminology.
 
 ## See Also
 - See `suffix_for_adj.md` for general guide to adjective suffixes
