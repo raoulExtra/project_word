@@ -122,6 +122,14 @@ From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conc
 **Key aspects**: Context, Actors, Timeline, Outcomes
 **Types**: Future, Historical, Counterfactual, Stress scenarios
 
+### role
+From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/r/def_role.md`
+
+> A function, position, or responsibility that defines the behavior, purpose, or contribution of an entity within a model, system, or conceptual framework.
+
+**Key aspects**: Behavioral specification, Positional definition, Interaction patterns
+**Types**: Structural roles, Functional roles, Relational roles
+
 ## Related Cross-Domain Terms
 
 ### concept

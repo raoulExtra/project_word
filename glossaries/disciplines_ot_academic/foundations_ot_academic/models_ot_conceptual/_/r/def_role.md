@@ -3,7 +3,7 @@ id: def_role
 name: role
 kind: concept
 status: active
-domain: models_ot_conceptual
+domain: conceptual_model
 subdomain: conceptual_model
 ---
 
