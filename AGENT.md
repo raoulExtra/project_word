@@ -1,5 +1,6 @@
 answer fast and immediate.come to the point.
 read conventions folder.
+glossaries/ABBREVIATIONS.md
 workflow for projects:
 1) when projects: define the glossary for the project
 2) when projects: start with a PRD document. 

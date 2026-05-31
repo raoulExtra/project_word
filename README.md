@@ -98,3 +98,12 @@ Example usage or context where the term applies.
 2. Add YAML frontmatter with proper metadata
 3. Define terms using markdown with cross-references
 4. Update parent README.md with term links
+
+bring folderstructure to file
+Get-ChildItem -Recurse -Name > total.txt
+
+## Change History
+
+| Version | Date | Author | Model | Reason |
+|---------|------|--------|-------|--------|
+| V00.01.00 | 2026-05-31 | raoulExtra | Poolside/Laguna XS.2 | init |

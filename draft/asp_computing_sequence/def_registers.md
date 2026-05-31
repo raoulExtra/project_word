@@ -1,7 +1,7 @@
 ---
 id: def_registers
 name: registers
-extends: def_computing_sequence_guide
+extends: def_sequences_for_terms_in_computing_guide
 kind: concept
 status: active
 domain: computing

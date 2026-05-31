@@ -9,10 +9,7 @@ version: V00.04.00
 updated: '2026-05-31'
 ```
 
-# Convention: Change History section
-> Version: V00.04.00
-
-## Rule
+## Convention
 
 Documents that track changes over time SHOULD include a `## Change History` section at the end of the file.
 

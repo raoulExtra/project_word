@@ -3,6 +3,7 @@
 ## Core Concepts (Core Concepts Guide)
 
 ### a
+- [academic](glossaries/disciplines_ot_academic/_/a/asp_academic.md)
 - [aspect](glossaries/disciplines_ot_academic/concepts_ot_core/_/a/asp_aspect.md)
 
 ### c
@@ -10,8 +11,9 @@
 - [conceptual](glossaries/disciplines_ot_academic/concepts_ot_core/_/c/asp_conceptual.md)
 
 ### d
-- [dimension](glossaries/disciplines_ot_academic/_/d/def_dimension.md)
-- [dimensional](glossaries/disciplines_ot_academic/_/d/asp_dimensional.md)
+- [dimension](glossaries/disciplines_ot_academic/foundations_ot_academic/_/d/def_dimension.md)
+- [dimensional](glossaries/disciplines_ot_academic/foundations_ot_academic/_/d/asp_dimensional.md)
+- [disciplin](glossaries/disciplines_ot_academic/_/d/def_disciplin.md)
 - [distinction](glossaries/disciplines_ot_academic/concepts_ot_core/_/d/def_distinction.md)
 
 ### e
@@ -39,6 +41,9 @@
 
 ### d
 - [declarative](glossaries/disciplines_ot_academic/sciences_ot_formal/_/d/asp_declarative.md)
+
+### f
+- [formal](glossaries/disciplines_ot_academic/sciences_ot_formal/_/f/asp_formal.md)
 
 ### l
 - [logic](glossaries/disciplines_ot_academic/sciences_ot_formal/mathematics/logic/_/l/asp_logical.md)

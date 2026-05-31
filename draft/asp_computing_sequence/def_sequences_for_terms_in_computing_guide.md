@@ -1,16 +1,16 @@
 ---
-id: def_computing_sequence_guide
-name: Computing Sequence Guide
+id: def_sequences_for_terms_in_computing_guide
+name: Sequences for Terms in Computing Guide
 kind: documentation
 status: active
 domain: computing
 subdomain: efficiency_binary
 ---
 
-# Computing Sequence Guide
+# Sequences for Terms in Computing Guide
 
 ## Overview
-The computing sequence defines the canonical order for introducing computational concepts, reflecting the dependency hierarchy of how computation is built up layer by layer.
+The sequences for terms in computing define the canonical order for introducing computational concepts, reflecting the dependency hierarchy of how computation is built up layer by layer.
 
 ## Sequence
 1. **bit** - Fundamental unit of information
@@ -28,6 +28,7 @@ The computing sequence defines the canonical order for introducing computational
 Each concept depends on all previous concepts. This is the minimal dependency chain for building computational systems.
 
 ## See Also
+- `glossaries/disciplines_ot_academic/computing/_docs/def_sequences_for_terms_in_computing.md` - Sequences concept
 - `def_bit.md` - Bit definition
 - `def_boolean.md` - Boolean definition
 - `def_byte.md` - Byte definition
