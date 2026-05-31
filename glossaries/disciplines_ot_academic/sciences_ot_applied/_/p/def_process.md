@@ -3,8 +3,8 @@ id: def_process
 name: process
 kind: concept
 status: active
-domain: principles
-extends: principles_guide
+domain: applied_sciences
+extends: sciences_applied_guide
 ---
 
 # Process
@@ -21,4 +21,4 @@ A process is a series of actions, steps, or operations conducted in a systematic
 - **Properties**: Repeatable, measurable, improvable
 
 ## Context
-In academic and applied contexts, processes are fundamental units of analysis and improvement across all disciplines, from manufacturing to software development to scientific research.
+In applied sciences, processes are systematic methods for transforming inputs into outputs through organized sequences of actions, forming the foundation for techniques and engineering approaches in research and practical applications.
