@@ -4,6 +4,7 @@ name: calculus
 kind: concept
 status: active
 domain: mathematics
+extends: def_mathematics_guide
 ---
 
 # Calculus

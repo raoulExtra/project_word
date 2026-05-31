@@ -4,6 +4,7 @@ name: number theory
 kind: concept
 status: active
 domain: mathematics
+extends: def_mathematics_guide
 ---
 
 # Number Theory

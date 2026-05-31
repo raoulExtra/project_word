@@ -4,6 +4,7 @@ name: geometry
 kind: concept
 status: active
 domain: mathematics
+extends: def_mathematics_guide
 ---
 
 # Geometry
