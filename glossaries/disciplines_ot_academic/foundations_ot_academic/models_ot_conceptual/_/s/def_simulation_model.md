@@ -1,10 +1,11 @@
----
+```yaml
 id: def_simulation_model
 name: simulation model
 kind: concept
 status: active
 domain: conceptual_model
 extends: def_model
+```
 ---
 
 # Simulation Model

@@ -35,7 +35,6 @@ This directory contains fundamental concepts and aspects related to conceptual m
 - [Simulation Model](s/def_simulation_model.md) - Computational replication
 - [Calibration](c/def_calibration.md) - Parameter tuning
 - [Scenario](s/def_scenario.md) - Situational exploration
-- [Role](r/def_role.md) - Function within models
 
 ## Reuse
 See [REUSE.md](REUSE.md) for cross-domain reusable terms.
