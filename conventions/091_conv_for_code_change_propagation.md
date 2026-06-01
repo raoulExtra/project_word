@@ -7,13 +7,13 @@ updated: '2026-06-01'
 
 ## Convention
 
-When code changes affect public interfaces, all connected files MUST be updated to maintain consistency.
+When code changes affect public interfaces, all connected files MUST be updated to maintain consistency, but only when explicitly requested by the user.
 
 ## Rules
 
-1. **Adapt Connected Files**: When a module's interface changes, update all files that reference or depend on it
+1. **Adapt Connected Files**: When a module's interface changes, update all files that reference or depend on it (when requested)
 2. **README References**: Each main module MUST include a comment referencing its related README.md
-3. **Cross-References**: Update cross-references in related documentation files
+3. **Cross-References**: Update cross-references in related documentation files (when requested)
 
 ## Example
 

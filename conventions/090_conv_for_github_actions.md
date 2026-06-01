@@ -7,13 +7,13 @@ updated: '2026-06-01'
 
 ## Convention
 
-GitHub Actions workflows MUST NOT run automatically unless there is an explicit trigger defined in the workflow file.
+GitHub Actions workflows MUST NOT run automatically when files are modified unless explicitly requested in a published workflow file or by user request.
 
 ## Rule
 
-1. Every workflow must have a clearly stated trigger (e.g., `on: push`, `on: pull_request`, `on: schedule`)
-2. Automatic workflows without explicit triggers are prohibited
-3. Workflows triggered by `workflow_dispatch` or `repository_dispatch` require documentation explaining when and why they are invoked
+1. No automatic workflows on file changes (push, pull_request, etc.) unless explicitly defined
+2. Workflows triggered by `workflow_dispatch` or `repository_dispatch` require explicit user request
+3. Only run workflows when explicitly requested by user or through published workflow definitions
 
 ## Example
 
@@ -39,3 +39,4 @@ on:
 | Version | Date | Author | Model | Reason |
 |---------|------|--------|-------|--------|
 | V00.01.00 | 2026-06-01 | raoulExtra | Poolside/Laguna XS.2 | Initial convention for GitHub Actions |
+| V00.02.00 | 2026-06-01 | raoulExtra | Poolside/Laguna XS.2 | Clarify: no auto workflows on file changes, only on explicit request |
