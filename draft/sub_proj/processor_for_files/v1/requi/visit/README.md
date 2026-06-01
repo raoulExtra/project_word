@@ -1,6 +1,6 @@
 ```yaml
-id: file_processor_readme
-name: "File Visitor Processor README"
+id: requi_visitor_for_files
+name: "Visitor for Files Requirement"
 kind: requi
 status: active
 version: V00.01.00
@@ -41,24 +41,24 @@ process_files(kind="frontmatter", action="visit", root=Path("/path/to/folder"), 
 ### Visit draft/sub_proj/processor_for_files/v1/requi
 
 ```bash
-python3 src/file_processor.py --action visit --root draft/sub_proj/processor_for_files/v1/requi 
+python3 src/processor_for_files.py --kind frontmatter --action visit --root draft/sub_proj/processor_for_files/v1/requi
 ```
 ### Visit all markdown files in a folder
 
 ```bash
-python3 src/file_processor.py --kind frontmatter --action visit --root draft/sub_proj/processor_for_files/data --ext md
+python3 src/processor_for_files.py --kind frontmatter --action visit --root draft/sub_proj/processor_for_files/data --ext md
 ```
 
 ### Visit files in multiple folders (comma-separated)
 
 ```bash
-python3 src/file_processor.py --kind frontmatter --action visit --root "folder1,folder2" --ext md
+python3 src/processor_for_files.py --kind frontmatter --action visit --root "folder1,folder2" --ext md
 ```
 
 ### Visit without extension filter
 
 ```bash
-python3 src/file_processor.py --kind frontmatter --action visit --root .
+python3 src/processor_for_files.py --kind frontmatter --action visit --root .
 ```
 
 ## Output
