@@ -1,6 +1,6 @@
 ```yaml
-id: requi_file_processor
-name: "File Processor Requirement"
+id: requi_processor_for_files
+name: "Processor for Files Requirement"
 kind: requi
 status: active
 statement: Provide reusable file-processing library that dispatches to processors by kind and action

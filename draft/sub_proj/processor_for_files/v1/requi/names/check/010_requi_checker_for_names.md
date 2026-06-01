@@ -1,11 +1,11 @@
 ```yaml
-id: requi_name_check
-name: Name Check Requirement
+id: requi_checker_for_names
+name: "Checker for Names Requirement"
 kind: requi
 status: active
 statement: Files and directories in the processor_for_files project MUST follow naming conventions
-version:
-updated:
+version: V00.01.00
+updated: '2026-06-01'
 ```
 
 ## Summary

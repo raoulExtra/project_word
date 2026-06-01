@@ -1,11 +1,11 @@
 ```yaml
 id: requi_directory_structure
-name: Directory Structure Requirement
+name: "Directory Structure Requirement"
 kind: requi
 status: active
 statement: The processor_for_files project directory structure MUST follow naming conventions
-version:
-updated:
+version: V00.01.00
+updated: '2026-06-01'
 ```
 
 ## Summary

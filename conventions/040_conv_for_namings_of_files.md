@@ -77,12 +77,10 @@ These are `-ed` or `-er` forms derived from verbs:
 
 All files in `draft/sub_proj/processor_for_files/` already follow the convention:
 
-- `010_requi_file_processor.md` - file processor requirement
-- `020_requi_yaml_frontmatter_check.md` - YAML frontmatter check requirement
+- `requi/010_requi_processor_for_files.md` - file processor requirement
+- `requi/020_requi_yaml_frontmatter_check.md` - YAML frontmatter check requirement
 - `visit/010_requi_visitor_for_files.md` - file visitor requirement
-- `visit/README.md` - file visitor processor usage guide
-- `requi/030_requi_frontmatter_attribute_sequence.md` - frontmatter attribute sequence
-- `names/check/010_requi_name_check.md` - name validation requirement
+- `names/check/010_requi_checker_for_names.md` - name validation requirement
 - `names/check/020_requi_verb_recognition.md` - verb recognition requirement
 - `names/check/030_requi_pos_splitting.md` - POS splitting requirement (three-level structure: `<data>/<pos>/<first_two_letters>/<word>/`)
 - `names/check/040_requi_abbrevs_and_unknown_words.md` - abbreviations and unknown words handling
