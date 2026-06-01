@@ -27,9 +27,12 @@ We SHALL:
 Each test case follows this format:
 
 - `word` - the word to test
-- `expe` - the expected result (POS category, folder path, or other expected output)
+- `expe` - the expected result (our data category)
 - `pos` - expected part of speech (optional)
 - `folder` - expected folder path (optional)
+
+Note:
+(our data category) is eigther POS or abbrev or unkown
 
 ## Python Implementation
 
