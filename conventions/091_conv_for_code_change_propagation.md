@@ -42,3 +42,4 @@ Each main module should include a comment like:
 | Version | Date | Author | Model | Reason |
 |---------|------|--------|-------|--------|
 | V00.01.00 | 2026-06-01 | raoulExtra | Poolside/Laguna XS.2 | Initial convention for code change propagation |
+| V00.02.00 | 2026-06-01 | raoulExtra | Poolside/Laguna XS.2 | Adapt connected files only when explicitly requested |
