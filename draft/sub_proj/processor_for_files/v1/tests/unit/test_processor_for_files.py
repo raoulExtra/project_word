@@ -5,7 +5,7 @@ import tempfile
 import pathlib
 
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), 'src'))
-from file_processor import process_files
+from processor_for_files import process_files
 
 
 class TestVisitAction:
@@ -103,7 +103,7 @@ class TestVisitAction:
 
     def test_raises_error_when_log_file_cannot_be_written(self):
         from unittest.mock import patch, mock_open
-        import file_processor
+        import processor_for_files
         
         with tempfile.TemporaryDirectory() as tmpdir:
             missing_id = pathlib.Path(tmpdir) / "missing_id.md"

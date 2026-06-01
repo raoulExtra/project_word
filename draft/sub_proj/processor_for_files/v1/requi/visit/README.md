@@ -14,7 +14,7 @@ updated: '2026-06-01'
 ### Command Line Interface
 
 ```bash
-python3 src/file_processor.py --kind frontmatter --action visit --root /path/to/folder --ext md
+python3 src/processor_for_files.py --kind frontmatter --action visit --root /path/to/folder --ext md
 ```
 
 ### Arguments
@@ -30,7 +30,7 @@ python3 src/file_processor.py --kind frontmatter --action visit --root /path/to/
 from pathlib import Path
 import sys
 sys.path.insert(0, 'src')
-from file_processor import process_files
+from processor_for_files import process_files
 
 # Visit files with frontmatter kind
 process_files(kind="frontmatter", action="visit", root=Path("/path/to/folder"), ext="md")
