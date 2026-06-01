@@ -24,10 +24,13 @@ We SHALL provide a `visit` action that:
 4. SHALL produce a log file `visit_log.txt` in `draft/sub_proj/processor_for_files/data` for warnings if files have no related "kind" YAML entry.
 5. SHALL fail if the log file cannot be written.
 6. WHEN `kind="frontmatter"`: SHALL check if file contains ` ```yaml` delimiter with valid YAML and required fields `id` and `kind`.
-7. SHALL use default kind "frontmatter" for files missing the `kind` field.
-8. SHALL stream results line-by-line as files are found.
-9. SHALL skip hidden files (starting with `.`).
-10. SHALL traverse directories with no depth limit.
+7. SHALL validate that `name` field is human-readable and does not repeat `kind` (see `030_requi_frontmatter_attribute_sequence.md`).
+8. SHALL use default kind "frontmatter" for files missing the `kind` field.
+9. SHALL stream results line-by-line as files are found.
+10. SHALL skip hidden files (starting with `.`).
+11. SHALL traverse directories with no depth limit.
+12. SHALL follow symbolic links.
+13. SHALL skip unreadable files and log errors.
 
 ## Output
 
