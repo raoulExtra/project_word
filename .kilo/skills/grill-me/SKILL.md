@@ -9,7 +9,7 @@ Interview the user relentlessly about every aspect of this plan until we reach a
 
 ## Process
 
-VERY IMPORTANT: Ask **one question at a time** using **numbered options**. Always include an option for custom input. Wait for feedback before continuing.
+**Ask ONE question at a time.** Wait for user response before continuing. Persist state to avoid duplicate questions on interruption.
 
 ## When to Explore
 
@@ -23,14 +23,29 @@ For each question:
 2. Provide numbered options (1-5), with the last option being "Other (specify)"
 3. Wait for user response
 
-## Example Questions
+## State Persistence
 
-1. What are the non-functional requirements?
-   - 1. Performance and scalability
-   - 2. Security and compliance
-   - 3. Maintainability and extensibility
-   - 4. User experience and accessibility
-   - 5. Other (specify)
+Before asking each question, write current state to `grill-me.tmp.md`:
+
+```markdown
+# Grill-Me Session State
+
+- Current Question: N
+- Answers:
+  - Q1: answer
+  - Q2: answer
+```
+
+On restart, read this file to resume.
+
+## Example Question
+
+What are the non-functional requirements for this system?
+- 1. Performance and scalability
+- 2. Security and compliance
+- 3. Maintainability and extensibility
+- 4. User experience and accessibility
+- 5. Other (specify)
 
 2. What are the failure modes?
    - 1. Component unavailability
