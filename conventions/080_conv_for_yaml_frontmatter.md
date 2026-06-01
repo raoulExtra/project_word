@@ -49,6 +49,7 @@ statement: Output the files the processor visits
 
 - [Requirement 030](draft/sub_proj/processor_for_files/v1/requi/030_requi_frontmatter_attribute_sequence.md) - Frontmatter attribute sequence
 - [Convention 040](040_conv_for_namings_of_files.md) - File naming convention
+- [Requirement 020](draft/sub_proj/processor_for_files/v1/requi/020_requi_yaml_frontmatter_check.md) - YAML frontmatter check
 
 ---
 
