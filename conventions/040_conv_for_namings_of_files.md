@@ -84,6 +84,7 @@ All files in `draft/sub_proj/processor_for_files/` already follow the convention
 - `names/check/020_requi_verb_recognition.md` - verb recognition requirement
 - `names/check/030_requi_pos_splitting.md` - POS splitting requirement (three-level structure: `<data>/<pos>/<first_two_letters>/<word>/`)
 - `names/check/040_requi_abbrevs_and_unknown_words.md` - abbreviations and unknown words handling
+- `names/check/050_requi_testing_with_words.md` - testing with words and expe argument
 - `names/010_requi_directory_structure.md` - directory structure requirement
 
 The directory name `processor_for_files` follows the `<noun>_<connector>_<noun>` pattern.
@@ -118,3 +119,4 @@ The directory name `processor_for_files` follows the `<noun>_<connector>_<noun>`
 | V00.10.00 | 2026-06-01 | raoulExtra | Poolside/Laguna XS.2 | Add cross-reference to visitor_for_files requirement |
 | V00.11.00 | 2026-06-01 | raoulExtra | Poolside/Laguna XS.2 | Update pos_splitting requirement with three-level structure |
 | V00.12.00 | 2026-06-01 | raoulExtra | Poolside/Laguna XS.2 | Add abbrevs_and_unknown_words requirement |
+| V00.13.00 | 2026-06-01 | raoulExtra | Poolside/Laguna XS.2 | Add testing_with_words requirement |
