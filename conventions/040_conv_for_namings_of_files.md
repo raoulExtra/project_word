@@ -4,6 +4,7 @@ name: Convention for Namings of Files
 kind: convention
 tags:
 - filename
+status: active
 version: V00.10.00
 updated: '2026-06-01'
 ```

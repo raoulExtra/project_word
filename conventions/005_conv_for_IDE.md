@@ -4,6 +4,7 @@ name: Convention for IDE
 tags: 
 - model
 - IDE
+status: active
 version: V00.01.00
 updated: '2026-05-31'
 ```

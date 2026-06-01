@@ -9,7 +9,7 @@ Interview the user relentlessly about every aspect of this plan until we reach a
 
 ## Process
 
-Ask **one question at a time** using **numbered options**. Always include an option for custom input. Wait for feedback before continuing.
+VERY IMPORTANT: Ask **one question at a time** using **numbered options**. Always include an option for custom input. Wait for feedback before continuing.
 
 ## When to Explore
 

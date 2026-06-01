@@ -1,7 +1,8 @@
 ```yaml
 id: conv_for_code_change_propagation
 name: Convention for Code Change Propagation
-version: V00.01.00
+status: active
+version: V00.02.00
 updated: '2026-06-01'
 ```
 

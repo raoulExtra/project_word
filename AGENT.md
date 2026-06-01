@@ -1,3 +1,4 @@
+[grill-me]
 answer fast and immediate.come to the point.
 our skills are in <workspace>.kilo folder
 if a skill is active show skillname before userinput

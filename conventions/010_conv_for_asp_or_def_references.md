@@ -1,6 +1,7 @@
 ```yaml
 id: conv_for_asp_or_def_references
 name: Convention for ASP or Definition References
+status: active
 version: V00.01.00
 updated: '2026-05-31'
 ```

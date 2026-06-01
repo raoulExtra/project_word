@@ -1,6 +1,7 @@
 ```yaml
 id: conv_filename_by_term_start
 name: Convention for Filename by Term Start
+status: active
 version: V00.01.00
 updated: '2026-05-31'
 ```

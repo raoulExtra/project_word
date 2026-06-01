@@ -1,6 +1,7 @@
 ```yaml
 id: conv_for_attribs_ot_yaml
 name: Convention for Attributes over YAML
+status: active
 version: V00.01.00
 updated: '2026-06-01'
 ```

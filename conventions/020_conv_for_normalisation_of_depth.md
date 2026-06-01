@@ -1,6 +1,7 @@
 ```yaml
 id: conv_for_normalisation_of_depth
 name: Convention for Normalisation of Depth
+status: active
 version: V00.01.00
 updated: '2026-05-31'
 ```

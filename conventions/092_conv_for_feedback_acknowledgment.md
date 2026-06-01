@@ -1,6 +1,7 @@
 ```yaml
 id: conv_for_feedback_acknowledgment
 name: Convention for Feedback Acknowledgment
+status: active
 version: V00.01.00
 updated: '2026-06-01'
 ```
