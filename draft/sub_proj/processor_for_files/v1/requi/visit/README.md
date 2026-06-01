@@ -1,3 +1,12 @@
+```yaml
+id: file_processor_readme
+name: "File Visitor Processor README"
+kind: requi
+status: active
+version: V00.01.00
+updated: '2026-06-01'
+```
+
 # File Visitor Processor
 
 ## Usage
@@ -29,6 +38,11 @@ process_files(kind="frontmatter", action="visit", root=Path("/path/to/folder"), 
 
 ## Examples
 
+### Visit draft/sub_proj/processor_for_files/v1/requi
+
+```bash
+python3 src/file_processor.py --action visit --root draft/sub_proj/processor_for_files/v1/requi 
+```
 ### Visit all markdown files in a folder
 
 ```bash

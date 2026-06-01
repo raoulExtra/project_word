@@ -1,5 +1,14 @@
+```yaml
+id: requi_yaml_frontmatter_check
+name: "YAML Frontmatter Check Requirement"
+kind: requi
+status: active
+version: V00.08.00
+updated: '2026-05-24'
+statement: Provide YAML frontmatter tooling for validation and reading
+```
+
 # 010_requi_yaml_frontmatter_check
-> Version: V00.08.00
 
 ## Summary
 
