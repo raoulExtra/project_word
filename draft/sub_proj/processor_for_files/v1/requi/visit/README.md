@@ -63,3 +63,17 @@ Format: `<filepath>: missing <field1>, <field2>`
 
 - `0`: Success
 - Exception raised on failure (e.g., log file cannot be written)
+
+## YAML Frontmatter Example
+
+Files should use the following format (see [Convention 080](../conventions/080_conv_for_yaml_frontmatter.md)):
+
+```yaml
+id: requi_visitor_for_files
+name: "Visitor for Files Requirement"
+kind: requi
+status: active
+version: V00.01.00
+updated: '2026-06-01'
+statement: Output the files the processor visits
+```
