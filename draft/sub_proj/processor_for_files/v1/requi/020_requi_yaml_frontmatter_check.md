@@ -118,3 +118,4 @@ The canonical attribute sequence and formatting rules are specified in:
 | V00.06.00 | 2026-05-24 | ai(cline) | Add `kind` value validation against filename prefix |
 | V00.07.00 | 2026-05-24 | ai(cline) | Number all SHALL statements and add numbering to other lists |
 | V00.08.00 | 2026-06-01 | ai(cline) | Number file pattern filtering list items |
+| V00.09.00 | 2026-06-01 | raoulExtra | Add name attribute sequence and readability rules |

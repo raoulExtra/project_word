@@ -81,6 +81,7 @@ All files in `draft/sub_proj/processor_for_files/` already follow the convention
 - `020_requi_yaml_frontmatter_check.md` - YAML frontmatter check requirement
 - `visit/010_requi_visitor_for_files.md` - file visitor requirement
 - `visit/README.md` - file visitor processor usage guide
+- `requi/030_requi_frontmatter_attribute_sequence.md` - frontmatter attribute sequence
 - `names/check/010_requi_name_check.md` - name validation requirement
 - `names/check/020_requi_verb_recognition.md` - verb recognition requirement
 - `names/check/030_requi_pos_splitting.md` - POS splitting requirement (three-level structure: `<data>/<pos>/<first_two_letters>/<word>/`)
