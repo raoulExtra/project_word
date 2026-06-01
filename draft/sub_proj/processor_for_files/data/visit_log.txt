@@ -1,1 +1,1 @@
-/tmp/tmpvmsy4r0c/unreadable.md: missing id, kind
+draft/sub_proj/processor_for_files/v1/requi/visit/README.md: missing yaml delimiter

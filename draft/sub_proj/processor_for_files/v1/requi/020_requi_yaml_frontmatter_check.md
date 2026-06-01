@@ -55,6 +55,10 @@ For this repo, "complete" frontmatter means the following attributes are present
 7. `updated`
 8. `statement` (one sentence)
 
+Prefix: attr_sequence
+
+Additionally, `name` MUST NOT repeat the `kind` value and SHOULD be human-readable. See `030_requi_frontmatter_attribute_sequence.md` for details.
+
 Prefix:  
 
 1. Extra attributes are allowed.
