@@ -1,9 +1,9 @@
 ```yaml
 id: requi_visitor_for_files
-name: requi_visitor_for_files
+name: "Visitor for Files Requirement"
 kind: requi
 related_id: conv_for_namings_of_files
-see_also: conv_for_namings_of_files
+see_also: conv_for_namings_of_files, conv_for_yaml_frontmatter
 status: active
 statement: Output the files the processor visits based on root paths and extensions, with logging for files missing kind YAML entries
 version: V00.03.00
