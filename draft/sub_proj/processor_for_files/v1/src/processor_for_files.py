@@ -1,3 +1,4 @@
+# See: requi/visit/README.md for usage documentation
 import os
 import sys
 import pathlib
