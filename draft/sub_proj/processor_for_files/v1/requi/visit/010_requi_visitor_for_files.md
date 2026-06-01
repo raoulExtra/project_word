@@ -54,6 +54,8 @@ We SHALL provide a `visit` action that:
 9. Files missing `kind` field use default value "frontmatter".
 10. Results are streamed line-by-line as files are found.
 11. Hidden files (starting with `.`) are skipped.
+12. Symbolic links are followed and linked files are included.
+13. Unreadable files are skipped and logged to `visit_log.txt`.
 
 ---
 
@@ -65,3 +67,4 @@ We SHALL provide a `visit` action that:
 | V00.02.00 | 2026-06-01 | raoulExtra | Poolside/Laguna XS.2 | Add id and related_id to frontmatter, update see_also reference |
 | V00.03.00 | 2026-06-01 | raoulExtra | Add log file requirement for files without kind YAML entries, fail if log file cannot be written |
 | V00.04.00 | 2026-06-01 | raoulExtra | Add detailed requirements: yaml delimiters, required fields, streaming, hidden files |
+| V00.05.00 | 2026-06-01 | raoulExtra | Add symlink handling, error handling for unreadable files |
