@@ -34,7 +34,6 @@ Use a Markdown table with these required columns:
   - See: `005_conv_for_IDE.md`
 - `Reason`
   - MUST be short and specific (what changed + why)
-  - See style guidance: `90_conv_style_short_precise.md`
 
 ### Ordering
 

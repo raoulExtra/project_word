@@ -1,12 +1,12 @@
----
+```yaml
 id: def_abstraction
 name: abstraction
 kind: concept
 status: active
 domain: conceptual_model
 extends: def_model
----
 
+```
 # Abstraction
 
 ## Definition

@@ -1,12 +1,12 @@
----
+```yaml
 id: def_idealization
 name: idealization
 kind: concept
 status: active
 domain: conceptual_model
 extends: def_model
----
 
+```
 # Idealization
 
 ## Definition

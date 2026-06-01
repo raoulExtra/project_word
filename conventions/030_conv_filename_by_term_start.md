@@ -9,6 +9,8 @@ updated: '2026-05-31'
 
 Files in `_/` subdirectories should be organized by the **first letter of the term name**, not by the prefix (def_/asp_/ref_).
 
+Frontmatter MUST use ```yaml code blocks, NOT `---` delimiters.
+
 ### Rule
 
 - `def_model_for_simulation.md` → should be in `s/` directory (term starts with "simulation")

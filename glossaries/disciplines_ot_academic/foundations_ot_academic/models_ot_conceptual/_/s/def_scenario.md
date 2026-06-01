@@ -1,12 +1,12 @@
----
+```yaml
 id: def_scenario
 name: scenario
 kind: concept
 status: active
 domain: conceptual_model
 extends: def_model
----
 
+```
 # Scenario
 
 ## Definition

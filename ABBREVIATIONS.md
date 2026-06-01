@@ -67,6 +67,13 @@ This document lists abbreviations used in the project.
 | PATH | Path |
 | SW | Software |
 
+## Abbreviations normal
+
+| Abbreviation | Meaning |
+|--------------|---------|
+| exte | extension (file) |
+| ot | of type  |
+
 ## Glossary Identifier Prefixes
 
 | Prefix | Meaning |

@@ -1,12 +1,12 @@
----
+```yaml
 id: def_model
 name: model
 kind: concept
 status: active
 domain: conceptual_model
 extends: concepts_ot_core/_/c/def_concept
----
 
+```
 # Model
 
 ## Definition

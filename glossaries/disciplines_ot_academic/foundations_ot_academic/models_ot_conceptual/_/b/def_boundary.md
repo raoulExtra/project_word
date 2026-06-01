@@ -1,12 +1,12 @@
----
+```yaml
 id: def_boundary
 name: boundary
 kind: concept
 status: active
 domain: conceptual_model
 extends: def_model
----
 
+```
 # Boundary
 
 ## Definition

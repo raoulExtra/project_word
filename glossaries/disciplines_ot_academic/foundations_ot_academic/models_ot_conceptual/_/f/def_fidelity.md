@@ -1,12 +1,12 @@
----
+```yaml
 id: def_fidelity
 name: fidelity
 kind: concept
 status: active
 domain: conceptual_model
 extends: def_model
----
 
+```
 # Fidelity
 
 ## Definition

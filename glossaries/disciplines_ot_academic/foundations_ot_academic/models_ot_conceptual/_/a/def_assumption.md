@@ -1,12 +1,12 @@
----
+```yaml
 id: def_assumption
 name: assumption
 kind: concept
 status: active
 domain: conceptual_model
 extends: def_model
----
 
+```
 # Assumption
 
 ## Definition

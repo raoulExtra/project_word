@@ -1,12 +1,12 @@
----
+```yaml
 id: def_representation
 name: representation
 kind: concept
 status: active
 domain: conceptual_model
 extends: def_model
----
 
+```
 # Representation
 
 ## Definition

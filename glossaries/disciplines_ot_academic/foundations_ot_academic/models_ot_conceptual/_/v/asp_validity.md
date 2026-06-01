@@ -1,12 +1,12 @@
----
+```yaml
 id: asp_validity
 name: validity
 kind: aspect
 status: active
 domain: conceptual_model
 extends: def_model
----
 
+```
 # Validity
 
 ## Definition

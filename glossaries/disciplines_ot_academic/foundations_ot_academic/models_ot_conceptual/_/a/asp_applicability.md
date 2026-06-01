@@ -1,12 +1,12 @@
----
+```yaml
 id: asp_applicability
 name: applicability
 kind: aspect
 status: active
 domain: conceptual_model
 extends: def_model
----
 
+```
 # Applicability
 
 ## Definition

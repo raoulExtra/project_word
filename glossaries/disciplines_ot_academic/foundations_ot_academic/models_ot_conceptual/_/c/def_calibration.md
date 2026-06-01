@@ -1,12 +1,12 @@
----
+```yaml
 id: def_calibration
 name: calibration
 kind: concept
 status: active
 domain: conceptual_model
 extends: def_model
----
 
+```
 # Calibration
 
 ## Definition

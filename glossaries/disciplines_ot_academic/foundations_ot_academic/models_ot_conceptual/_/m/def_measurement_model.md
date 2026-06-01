@@ -1,12 +1,12 @@
----
+```yaml
 id: def_measurement_model
 name: measurement model
 kind: concept
 status: active
 domain: conceptual_model
 extends: def_model
----
 
+```
 # Measurement Model
 
 ## Definition

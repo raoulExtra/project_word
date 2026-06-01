@@ -1,12 +1,12 @@
----
+```yaml
 id: def_role
 name: role
 kind: concept
 status: active
 domain: conceptual_model
 subdomain: conceptual_model
----
 
+```
 # Role
 
 ## Definition
