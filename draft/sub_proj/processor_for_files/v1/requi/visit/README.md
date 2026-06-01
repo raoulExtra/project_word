@@ -66,7 +66,7 @@ Format: `<filepath>: missing <field1>, <field2>`
 
 ## YAML Frontmatter Example
 
-Files should use the following format (see [Convention 080](../conventions/080_conv_for_yaml_frontmatter.md)):
+Files should use the following format (see [Convention 080](../conventions/080_conv_for_attribs_ot_yaml.md)):
 
 ```yaml
 id: requi_visitor_for_files

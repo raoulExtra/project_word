@@ -1,6 +1,6 @@
 ```yaml
-id: conv_for_yaml_frontmatter
-name: Convention for YAML Frontmatter
+id: conv_for_attribs_ot_yaml
+name: Convention for Attributes over YAML
 version: V00.01.00
 updated: '2026-06-01'
 ```
