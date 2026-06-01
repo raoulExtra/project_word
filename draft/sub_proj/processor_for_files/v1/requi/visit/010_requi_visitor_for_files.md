@@ -22,6 +22,7 @@ We SHALL provide a `visit` action that:
 2. SHALL accept a **folder path(s)** (`root`) and recursively scan files under it. Multiple root folders can be comma-separated.
 3. SHALL accept an optional `--ext` argument to filter by file extension (e.g., `--ext md` matches files ending in `.md`).
 4. SHALL produce a log file for warnings if files have no related "kind" YAML entry.
+5. SHALL fail if the log file cannot be written.
 
 ## Output
 
@@ -42,6 +43,7 @@ We SHALL provide a `visit` action that:
 4. File pattern filtering is applied based on the kind abbreviation.
 5. Output is one file path per line.
 6. A log file is produced for files without related "kind" YAML entries.
+7. The action fails if the log file cannot be written.
 
 ---
 
@@ -51,4 +53,4 @@ We SHALL provide a `visit` action that:
 |---------|------|--------|--------|
 | V00.01.00 | 2026-06-01 | ai(cline) | Initial requirement for file visit output |
 | V00.02.00 | 2026-06-01 | raoulExtra | Poolside/Laguna XS.2 | Add id and related_id to frontmatter, update see_also reference |
-| V00.03.00 | 2026-06-01 | raoulExtra | Add log file requirement for files without kind YAML entries |
+| V00.03.00 | 2026-06-01 | raoulExtra | Add log file requirement for files without kind YAML entries, fail if log file cannot be written |
