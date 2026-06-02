@@ -1,11 +1,19 @@
 ---
 id: prd_glossary
-name: Glossary System PRD
-kind: prd
+name: Glossary System Article
+kind: arti
 status: active
+elements:
+- Overview section describing glossary system purpose
+- Goals section outlining system objectives
+- User Stories section with contributor perspectives
+- Structure section with directory organization
+- Entry Format section with YAML template
+- Article Files section explaining arti type
+- Success Metrics section for validation
 ---
 
-# Glossary System Product Requirements Document
+# Glossary System Article
 
 ## Overview
 
@@ -56,7 +64,7 @@ glossaries/
 ├── morphology/
 ├── software_development/
 │   └── arg_parser/
-└── 000_prd_for_glossary.md
+└── prd_glossary.md
 ```
 
 ### Entry Format
@@ -65,12 +73,13 @@ Each entry follows YAML frontmatter + Markdown:
 ---
 id: unique_identifier
 name: term_name
-kind: concept|aspect|suffix|requirement|documentation
+kind: concept|aspect|suffix|requirement|documentation|arti
 status: active|draft
 domain: subject_domain
 subdomain: optional_subdivision
 extends: parent_guide_reference
 related: cross_reference_path (optional)
+elements: list of concrete described elements (arti only)
 ---
 
 # Term Name
@@ -85,6 +94,11 @@ related: cross_reference_path (optional)
 - **Examples**: examples or use cases
 - **Role**: position in knowledge structure
 ```
+
+### Article (arti) Files
+Articles are concrete described elements containing specific structured content:
+- `elements`: YAML list of concrete described elements inside the article
+- Contains detailed exposition, examples, and applied knowledge
 
 ## Success Metrics
 

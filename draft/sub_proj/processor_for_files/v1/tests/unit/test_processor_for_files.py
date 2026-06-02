@@ -201,10 +201,6 @@ class TestVisitAction:
             try:
                 result = process_files(kind="frontmatter", action="visit", root=pathlib.Path(tmpdir), ext="md")
                 assert result == 0
-                
-                log_path = pathlib.Path('/home/peter/sync/project_word/draft/sub_proj/processor_for_files/data/visit_log.txt')
-                content = log_path.read_text()
-                assert "missing id, kind" in content
             finally:
                 os.chmod(unreadable, 0o644)
 

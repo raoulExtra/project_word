@@ -1,6 +1,7 @@
 ```yaml
 id: rule_for_github_actions
 name: Rule for GitHub Actions
+status: active
 version: V00.01.00
 updated: '2026-06-01'
 ```

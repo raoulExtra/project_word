@@ -24,3 +24,5 @@ A minimal calculator implementation using a simplified accumulator-based archite
 - No floating-point support
 - Limited memory (100 addresses)
 - Integer arithmetic only
+
+are all requis clear to you? no contradiction no improve?

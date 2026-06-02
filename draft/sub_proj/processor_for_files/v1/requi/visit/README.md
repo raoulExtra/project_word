@@ -61,6 +61,11 @@ python3 src/processor_for_files.py --kind frontmatter --action visit --root "fol
 python3 src/processor_for_files.py --kind frontmatter --action visit --root .
 ```
 
+### split 
+python3 src/processor_for_files.py --kind frontmatter --action split
+--root draft/sub_proj/processor_for_files/v1/requi/names/split
+
+
 ## Output
 
 - **stdout**: File paths, one per line

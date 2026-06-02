@@ -8,13 +8,15 @@ import yaml
 
 def process_files(kind: str, action: str, root: pathlib.Path, ext: str = None) -> int:
     valid_kinds = {"frontmatter"}
-    valid_actions = {"visit"}
+    valid_actions = {"visit", "split"}
     if kind not in valid_kinds:
         raise ValueError(f"Unknown kind: {kind}")
     if action not in valid_actions:
         raise ValueError(f"Unknown action: {action}")
     if action == "visit":
         return _visit_files(kind, root, ext)
+    if action == "split":
+        return _split_files(kind, root)
 
 
 def _visit_files(kind: str, root: pathlib.Path, ext: str = None) -> int:
@@ -29,6 +31,46 @@ def _visit_files(kind: str, root: pathlib.Path, ext: str = None) -> int:
             print(filepath)
     if log_entries:
         _write_log(log_entries)
+    return 0
+
+
+def _split_files(kind: str, root: pathlib.Path) -> int:
+    import sqlite3
+    sys.path.insert(0, str(pathlib.Path(__file__).parent))
+    from split import extract_last_component, split_words, normalize_path, normalize_word
+    
+    db_path = pathlib.Path('/home/peter/sync/project_word/draft/sub_proj/processor_for_files/data/words.db')
+    db_path.parent.mkdir(parents=True, exist_ok=True)
+    
+    conn = sqlite3.connect(str(db_path))
+    cursor = conn.cursor()
+    cursor.execute('''CREATE TABLE IF NOT EXISTS words (
+        full_pathname TEXT NOT NULL,
+        word TEXT NOT NULL,
+        kind TEXT,
+        source TEXT,
+        position INTEGER NOT NULL,
+        timestamp DATETIME DEFAULT CURRENT_TIMESTAMP,
+        UNIQUE (full_pathname, word)
+    )''')
+    
+    roots = _parse_roots(root)
+    for r in roots:
+        for filepath in _scan_files(r, None):
+            try:
+                normalized = normalize_path(filepath)
+                component = extract_last_component(filepath)
+                words = split_words(component)
+                for i, word in enumerate(words):
+                    cursor.execute(
+                        'INSERT OR IGNORE INTO words (full_pathname, word, kind, source, position) VALUES (?, ?, ?, ?, ?)',
+                        (normalized, normalize_word(word), kind, filepath, i)
+                    )
+            except (ValueError, OSError):
+                continue
+    
+    conn.commit()
+    conn.close()
     return 0
 
 

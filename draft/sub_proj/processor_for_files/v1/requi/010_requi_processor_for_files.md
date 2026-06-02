@@ -13,7 +13,7 @@ updated: '2026-05-24'
 We SHALL provide a reusable **file-processing library** that dispatches to file processors by:
 
 - `kind` (what domain is being processed, e.g. `frontmatter`)
-- `action` (what operation to perform, e.g. `visit`,`check`, `read`)
+- `action` (what operation to perform, e.g. `visit`,`check`, `read`, `split`)
 - `root` (a path that can represent either a folder or file depending on the action)
 
 This is a library-level requirement (no CLI entrypoint required here).
@@ -38,6 +38,11 @@ Initial supported processor:
 - `kind = "frontmatter"`
   - `action = "check"` : validate YAML frontmatter completeness under a folder
   - `action = "read"` : parse YAML frontmatter for a single markdown file
+  - `action = "split"` : extract words from paths and store in database
+
+## See Also
+
+- [Split Action Requirement](020_requi_split_action.md) - Split action specification
 
 ## Rationale
 
@@ -52,12 +57,16 @@ Initial supported processor:
 - Given `kind="frontmatter"`, `action="read"`, and an input markdown file:
   - returns `0` and prints parsed YAML to stdout on success
   - returns non-zero and prints a concise error to stderr on failure
+- Given `kind="frontmatter"`, `action="split"`, and an input path:
+  - extracts and stores words from the path in the database
+  - returns `0` on success, non-zero on failure
 - Given unknown kinds/actions, raises `ValueError`.
 
 ---
 
 ## Change History
 
-| Version | Date | Author | Reason |
-|---------|------|--------|--------|
+| Version | Date | Author | Model | Reason |
+|---------|------|--------|-------|--------|
 | V00.01.00 | 2026-05-24 | ai(cline) | Initial requirement for generic file processor dispatcher |
+| V00.02.00 | 2026-06-01 | raoulExtra | Poolside/Laguna XS.2 | Add split action and see also reference |
