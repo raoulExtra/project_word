@@ -28,10 +28,10 @@ Priority terms for initial article development in the Abstract Concepts domain:
 | Knowledge | /disciplines_ot_academic/foundations_ot_academic/concepts_ot_core/core_concepts_guide.md |
 | Concept | /disciplines_ot_academic/foundations_ot_academic/concepts_ot_core/_/c/concept.md |
 | Idea | (to be created) |
-| Meaning | (to be created) |
+| Meaning | /disciplines_ot_academic/foundations_ot_academic/concepts_ot_core/_/m/meaning.md |
 | Pattern | /disciplines_ot_academic/sciences_ot_applied/engineerings_ot_applied/engineering_of_knowledge/engineering_of_ontologies/_/p/pattern.md |
-| Signal | (to be created) |
-| Symbol | (to be created) |
+| Signal | /disciplines_ot_academic/sciences_ot_formal/theory_for_signals/_s/signal.md |
+| Symbol | /disciplines_ot_academic/foundations_ot_academic/concepts_ot_core/_/s/symbol.md |
 
 ## Change History
 
