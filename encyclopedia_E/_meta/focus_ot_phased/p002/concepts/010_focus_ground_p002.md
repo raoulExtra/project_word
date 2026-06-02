@@ -22,6 +22,10 @@ Foundational elements from phase 1 that ground phase 2 concepts:
 - Model (from structure)
 - Relationship (from ontology)
 - Structure (from systems)
+- Abstraction (from abstract)
+- Part (from abstract)
+- Whole (from abstract)
+- Evidence (from abstract)
 
 ## Combinations Available for Phase 2
 These pairs form the basis for phase 2 concepts:

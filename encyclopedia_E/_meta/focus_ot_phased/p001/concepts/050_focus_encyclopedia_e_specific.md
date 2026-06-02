@@ -25,3 +25,9 @@ Priority terms for initial article development in the Encyclopedia E Specific do
 - Aspect
 
 ## Concept to Domain Mapping
+
+## Change History
+
+| Version | Date | Author | Model | Reason |
+|---------|------|--------|-------|--------|
+| V00.01.00 | 2026-05-31 | raoulExtra | Poolside/Laguna XS.2 | init |

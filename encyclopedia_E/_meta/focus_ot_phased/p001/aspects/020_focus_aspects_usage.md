@@ -16,3 +16,9 @@ Aspects for harmonizing concept usage across different contexts:
 - **asp_everyday** - Common language, general public usage
 - **asp_ai** - Artificial intelligence and machine learning contexts
 - **asp_publishing** - Written works, documentation, media
+
+## Change History
+
+| Version | Date | Author | Model | Reason |
+|---------|------|--------|-------|--------|
+| V00.01.00 | 2026-06-02 | raoulExtra | Poolside/Laguna XS.2 | init |

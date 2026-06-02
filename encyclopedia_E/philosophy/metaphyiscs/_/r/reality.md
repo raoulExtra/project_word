@@ -4,7 +4,7 @@ name: reality
 kind: concept
 status: active
 domain: metaphysics
-extends: metaphysics_guide
+extends: g/metaphysics_guide
 ---
 
 # Reality

@@ -13,3 +13,7 @@ Structured phases for Encyclopedia E development, organized by foundational prog
 Each phase must only reference concepts from the same phase or earlier phases (no forward dependencies).
 
 See `p001/concepts/000_focus_ot_initial.md` for phase 1 priorities.
+
+## Templates
+
+- `00_templ_for_aspect.md` - Template for aspect entries

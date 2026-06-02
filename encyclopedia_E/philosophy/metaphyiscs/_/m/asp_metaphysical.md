@@ -1,13 +1,13 @@
----
+```yaml
 id: metaphysical
 name: metaphysical
 kind: concept
 status: active
 domain: metaphysics
-extends: metaphysics_guide
----
+extends: g/metaphysics_guide
+```
 
-# Metaphysical
+# Asp_Metaphysical
 
 ## Definition
 Metaphysical refers to that which belongs to or lies at the basis of reality, addressing fundamental questions about the nature of being, existence, time, space, causation, and the relationship between mind and matter.

@@ -32,6 +32,9 @@ Priority terms for initial article development in the Abstract Concepts domain:
 | Pattern | /disciplines_ot_academic/sciences_ot_applied/engineerings_ot_applied/engineering_of_knowledge/engineering_of_ontologies/_/p/pattern.md |
 | Signal | /disciplines_ot_academic/sciences_ot_formal/theory_for_signals/_s/signal.md |
 | Symbol | /disciplines_ot_academic/foundations_ot_academic/concepts_ot_core/_/s/symbol.md |
+| Part | encyclopedia_E/philosophy/metaphyiscs/_/p/part.md |
+| Whole | encyclopedia_E/philosophy/metaphyiscs/_/w/whole.md |
+| World | encyclopedia_E/philosophy/metaphyiscs/_/w/world.md |
 
 ## Change History
 

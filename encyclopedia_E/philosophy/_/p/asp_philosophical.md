@@ -4,7 +4,7 @@ name: philosophical
 kind: aspect
 status: active
 domain: philosophy
-extends: philosophy_guide
+extends: g/philosophy_guide
 ---
 
 # Philosophical

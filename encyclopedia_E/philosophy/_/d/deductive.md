@@ -4,7 +4,7 @@ name: deductive
 kind: concept
 status: active
 domain: philosophy
-extends: philosophy_guide
+extends: g/philosophy_guide
 ---
 
 # Deductive
