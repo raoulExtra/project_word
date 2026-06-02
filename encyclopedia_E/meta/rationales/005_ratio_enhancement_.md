@@ -9,15 +9,15 @@ updated: '2026-05-31'
 
 ## Rationale
 [[AI_LOCK+]]
-We are releasing the first version of Encyclopedia E as an open repository to accelerate the practical use of a richer, more explicit ontology. Unlike a traditional encyclopedia, it embeds structured ontological aspects directly into its entries, enabling AI systems to interpret, apply, and explain concepts with greater precision and transparency than e.g. Wikipedia or model training data alone.
-[[AI_LOCK-]]
+We are releasing the first version of Encyclopedia E as an open repository to accelerate the practical use of a richer, more explicit ontology. Unlike a traditional encyclopedia, it embeds structured ontological aspects directly into its entries, enable to to interpret, apply, and explain concepts with greater precision and transparency than e.g. Wikipedia or AI model training data alone.
+
 
 ## Expected Benefits
 
-- **Precision**: Improved concept interpretation accuracy
-- **Transparency**: Clear reasoning paths for AI decisions
-- **Application**: Immediate practical use of the ontology
-- **Explainability**: Better articulation of concept relationships via explicit named aspects
+- **Community Access**: Open repository enables community contributions and usage
+- **Rapid Adoption**: Early availability accelerates practical ontology use
+- **Collaborative Evolution**: External feedback improves ontology quality
+[[AI_LOCK-]]
 
 ## Change History
 
