@@ -1,12 +1,3 @@
-```yaml
-id: meta_readme
-name: Meta Directory README
-kind: readme
-status: active
-version: V00.01.00
-updated: '2026-06-02'
-```
-
 # Meta Directory
 
 This directory contains the foundational principles and rules governing Encyclopedia E.
