@@ -26,7 +26,7 @@ Priority order:
 2. Create articles with clear, stable definitions
 3. Build lower-level articles that reference these foundations
 
-See `focus_ot_initial/000_focus_initial.md` for priority domains and terms.
+See `focus_ot_phased/000_focus_ot_initial.md` for priority domains and terms.
 
 [[AI_LOCK-]]
 
