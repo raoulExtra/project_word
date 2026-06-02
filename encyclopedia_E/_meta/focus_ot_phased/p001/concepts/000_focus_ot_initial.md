@@ -27,3 +27,7 @@ Priority domains and terms for initial article development, derived from:
 - [Concepts P002](../p002/concepts/020_focus_concepts_ot_p002.md)
 - [Aspects P002](../p002/aspects/010_focus_aspects_p002.md)
 - [Sense-Making Aspects P002](../p002/aspects/020_focus_aspects_sense_making.md)
+
+## Phase 3
+
+- [Interpretive Capabilities](../p003/000_focus_ot_capabilities.md)

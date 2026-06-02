@@ -20,5 +20,6 @@ The meta layer defines:
 - **Why we use a bootstrapped system approach** (rationale 050)
 - **Why high-level concepts must be established** before lower-level articles (rationale 060)
 - **Why phased focus must use same-or-below concepts** (rationale 070)
+- **Interpretive capabilities hierarchy** for phase validation (focus_ot_phased/p003)
 
 See `focus_ot_phased/000_focus_ot_initial.md` for initial article priorities.
