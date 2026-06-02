@@ -13,4 +13,4 @@ The meta layer defines:
 - Why articles should be unified through AI-supported normalization
 - Why knowledge should be grounded in Wikimedia information
 - Rules that ensure consistency and quality across all entries
-- **Prerequisite**: Articles for high-level concepts must exist first, as they have significant influence on AI guiding
+- Why high-level concepts must be established before lower-level articles
