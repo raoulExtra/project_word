@@ -6,6 +6,7 @@ This directory contains the foundational principles and rules governing Encyclop
 
 - **rationales/** - Documents explaining the "why" behind Encyclopedia E's design decisions
 - **rules_for_articles/** - Guidelines and constraints for article content, creation and maintenance
+- **focus_ot_initial/** - Priority domains and terms for initial article development
 
 ## Purpose
 
