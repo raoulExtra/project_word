@@ -33,12 +33,12 @@ In engineering of knowledge, quantitative attributes are essential for precise m
 
 **Related Aspects**:
 ### quantitative
-From: `glossaries/disciplines_ot_academic/_/q/asp_quantitative.md`
+From: `encyclopedia_E/disciplines_ot_academic/_/q/asp_quantitative.md`
 
 > Quantitative refers to the quality or state of being expressed as a number or measurable quantity, enabling mathematical manipulation and statistical analysis.
 
 ### degree
-From: `glossaries/disciplines_ot_academic/sciences_ot_applied/engineerings_ot_applied/engineering_of_knowledge/_/a/attribute_ot_quantitative/_/d/degree.md`
+From: `encyclopedia_E/disciplines_ot_academic/sciences_ot_applied/engineerings_ot_applied/engineering_of_knowledge/_/a/attribute_ot_quantitative/_/d/degree.md`
 
 > A unit of measurement that expresses the intensity, extent, or magnitude of a quantitative attribute, providing a standardized way to compare and evaluate characteristics.
 

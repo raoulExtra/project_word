@@ -5,7 +5,7 @@ This document identifies terms that can be reused from higher-level glossaries f
 ## Core Concepts
 
 ### model
-From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/c/def_model.md`
+From: `encyclopedia_E/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/c/def_model.md`
 
 > An abstract representation of reality, a system, or a phenomenon, constructed to understand, analyze, predict, or design based on simplified assumptions and structural relationships.
 
@@ -13,7 +13,7 @@ From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conc
 **Types**: Conceptual, Physical, Mathematical, Computational models
 
 ### abstraction
-From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/a/def_abstraction.md`
+From: `encyclopedia_E/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/a/def_abstraction.md`
 
 > The process of simplifying a complex reality by focusing on essential features while ignoring or suppressing irrelevant details.
 
@@ -21,7 +21,7 @@ From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conc
 **Types**: Conceptual, Spatial, Temporal, Functional abstraction
 
 ### assumption
-From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/a/def_assumption.md`
+From: `encyclopedia_E/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/a/def_assumption.md`
 
 > A premise or proposition accepted as true without proof or verification, serving as a foundation for building a model.
 
@@ -29,7 +29,7 @@ From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conc
 **Types**: Working, Foundational, Simplifying, Boundary assumptions
 
 ### constraint
-From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/c/def_constraint.md`
+From: `encyclopedia_E/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/c/def_constraint.md`
 
 > A limitation, restriction, or boundary that defines the allowable configurations, behaviors, or values within a model.
 
@@ -37,7 +37,7 @@ From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conc
 **Types**: Hard, Soft, Boundary, Logical constraints
 
 ### representation
-From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/r/def_representation.md`
+From: `encyclopedia_E/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/r/def_representation.md`
 
 > The act or process of forming or creating a description, model, or depiction of reality in a form suitable for analysis, communication, or computation.
 
@@ -47,7 +47,7 @@ From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conc
 ## Model Properties & Quality
 
 ### fidelity
-From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/f/def_fidelity.md`
+From: `encyclopedia_E/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/f/def_fidelity.md`
 
 > The degree to which a model accurately represents the essential characteristics of the system it models.
 
@@ -55,7 +55,7 @@ From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conc
 **Types**: High, Low, Selective fidelity
 
 ### validity
-From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/a/asp_validity.md`
+From: `encyclopedia_E/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/a/asp_validity.md`
 
 > The extent to which a model correctly represents the reality it purports to model.
 
@@ -63,7 +63,7 @@ From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conc
 **Types**: Statistical, Ecological, Theoretical validity
 
 ### applicability
-From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/a/asp_applicability.md`
+From: `encyclopedia_E/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/a/asp_applicability.md`
 
 > The range of contexts, conditions, or problem domains for which a model can be legitimately applied.
 
@@ -73,7 +73,7 @@ From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conc
 ## Model Components
 
 ### boundary
-From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/b/def_boundary.md`
+From: `encyclopedia_E/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/b/def_boundary.md`
 
 > A limit, edge, or constraint that defines the scope, extent, or limits of a model.
 
@@ -81,7 +81,7 @@ From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conc
 **Types**: Explicit, Implicit, Dynamic, System boundaries
 
 ### idealization
-From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/i/def_idealization.md`
+From: `encyclopedia_E/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/i/def_idealization.md`
 
 > The process of creating simplified or perfect versions of reality by removing real-world complications.
 
@@ -89,7 +89,7 @@ From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conc
 **Types**: Physical, Mathematical, Behavioral idealization
 
 ### calibration
-From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/c/def_calibration.md`
+From: `encyclopedia_E/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/c/def_calibration.md`
 
 > The process of adjusting, tuning, or configuring a model's parameters so that its outputs match observed data.
 
@@ -99,7 +99,7 @@ From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conc
 ## Specialized Models
 
 ### measurement_model
-From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/m/def_measurement_model.md`
+From: `encyclopedia_E/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/m/def_measurement_model.md`
 
 > A formal specification that defines how measurements are obtained and related to underlying quantities.
 
@@ -107,7 +107,7 @@ From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conc
 **Types**: Direct, Indirect, Probabilistic measurement models
 
 ### simulation_model
-From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/s/def_simulation_model.md`
+From: `encyclopedia_E/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/s/def_simulation_model.md`
 
 > A computational or mathematical representation designed to imitate the behavior of a real or hypothetical system.
 
@@ -115,7 +115,7 @@ From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conc
 **Types**: Discrete-event, Continuous, Agent-based, Monte Carlo simulations
 
 ### scenario
-From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/s/def_scenario.md`
+From: `encyclopedia_E/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/s/def_scenario.md`
 
 > A structured narrative describing a possible future situation, used to explore how a model might behave.
 
@@ -123,7 +123,7 @@ From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conc
 **Types**: Future, Historical, Counterfactual, Stress scenarios
 
 ### role
-From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/r/def_role.md`
+From: `encyclopedia_E/disciplines_ot_academic/foundations_ot_academic/models_ot_conceptual/_/r/def_role.md`
 
 > A function, position, or responsibility that defines the behavior, purpose, or contribution of an entity within a model, system, or conceptual framework.
 
@@ -133,21 +133,21 @@ From: `glossaries/disciplines_ot_academic/foundations_ot_academic/models_ot_conc
 ## Related Cross-Domain Terms
 
 ### concept
-From: `glossaries/disciplines_ot_academic/foundations_ot_academic/concepts_ot_core/_/c/def_concept.md`
+From: `encyclopedia_E/disciplines_ot_academic/foundations_ot_academic/concepts_ot_core/_/c/def_concept.md`
 
 > A mental construct representing a general category, property, relation, or entity.
 
 ### entity
-From: `glossaries/disciplines_ot_academic/foundations_ot_academic/concepts_ot_core/_/e/def_entity.md`
+From: `encyclopedia_E/disciplines_ot_academic/foundations_ot_academic/concepts_ot_core/_/e/def_entity.md`
 
 > A distinct, identifiable object that exists as a unified whole.
 
 ### property
-From: `glossaries/disciplines_ot_academic/foundations_ot_academic/concepts_ot_core/_/a/def_attribute.md`
+From: `encyclopedia_E/disciplines_ot_academic/foundations_ot_academic/concepts_ot_core/_/a/def_attribute.md`
 
 > An attribute or characteristic of an entity that can be measured or described.
 
 ### relation
-From: `glossaries/disciplines_ot_academic/foundations_ot_academic/concepts_ot_core/_/r/def_relation.md`
+From: `encyclopedia_E/disciplines_ot_academic/foundations_ot_academic/concepts_ot_core/_/r/def_relation.md`
 
 > An association or connection between entities or concepts.

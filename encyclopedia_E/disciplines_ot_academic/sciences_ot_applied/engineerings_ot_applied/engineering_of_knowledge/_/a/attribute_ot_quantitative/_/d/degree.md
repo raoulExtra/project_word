@@ -5,7 +5,7 @@ kind: concept
 status: active
 domain: attribute_ot
 subdomain: quantitative_attribute
-extends: glossaries/disciplines_ot_academic/_/q/asp_quantitative
+extends: encyclopedia_E/disciplines_ot_academic/_/q/asp_quantitative
 ---
 
 # Degree
@@ -32,6 +32,6 @@ In engineering of knowledge, degrees provide the granularity needed for precise 
 
 **Related Concepts**:
 ### measure
-From: `glossaries/disciplines_ot_academic/concepts_ot_core/_/m/measure.md`
+From: `encyclopedia_E/disciplines_ot_academic/concepts_ot_core/_/m/measure.md`
 
 > A standardized quantity used to express the magnitude, amount, or extent of a property, enabling comparison and analysis through calibrated units.

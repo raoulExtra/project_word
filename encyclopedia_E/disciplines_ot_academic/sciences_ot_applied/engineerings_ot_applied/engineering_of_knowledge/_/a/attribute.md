@@ -32,17 +32,17 @@ In ontology engineering, attributes are used to characterize entities, define th
 
 **Related Concepts**:
 ### measure
-From: `glossaries/disciplines_ot_academic/concepts_ot_core/_/m/measure.md`
+From: `encyclopedia_E/disciplines_ot_academic/concepts_ot_core/_/m/measure.md`
 
 > A standardized quantity used to express the magnitude, amount, or extent of a property, enabling comparison and analysis through calibrated units.
 
 ### quantity
-From: `glossaries/disciplines_ot_academic/concepts_ot_core/_/q/quantity.md`
+From: `encyclopedia_E/disciplines_ot_academic/concepts_ot_core/_/q/quantity.md`
 
 > A property of a phenomenon, body, or system that can be measured or expressed as a numerical value, typically in relation to a unit of measurement.
 
 **Related Aspects**:
 ### quantitative
-From: `glossaries/disciplines_ot_academic/_/q/asp_quantitative.md`
+From: `encyclopedia_E/disciplines_ot_academic/_/q/asp_quantitative.md`
 
 > Quantitative refers to the quality or state of being expressed as a number or measurable quantity, enabling mathematical manipulation and statistical analysis.

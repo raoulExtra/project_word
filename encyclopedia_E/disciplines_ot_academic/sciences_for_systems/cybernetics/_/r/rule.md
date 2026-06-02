@@ -32,11 +32,11 @@ In cybernetics, rules are fundamental to feedback mechanisms and control systems
 ## Related Concepts
 
 ### feedback
-From: `glossaries/disciplines_ot_academic/_/f/asp_feedback.md`
+From: `encyclopedia_E/disciplines_ot_academic/_/f/asp_feedback.md`
 
 > Feedback is the process of using information about the output or results of a system's behavior to influence its future inputs, thereby controlling or modifying its performance.
 
 ### control
-From: `glossaries/disciplines_ot_academic/_/c/asp_control.md`
+From: `encyclopedia_E/disciplines_ot_academic/_/c/asp_control.md`
 
 > Control is the process of guiding, directing, or regulating the behavior of a system or component to achieve desired outcomes or maintain specified conditions.

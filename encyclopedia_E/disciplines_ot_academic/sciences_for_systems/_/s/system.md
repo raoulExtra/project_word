@@ -25,16 +25,16 @@ Systems are fundamental to understanding how complex entities function and inter
 ## Related Aspects
 
 ### structural
-From: `glossaries/disciplines_ot_academic/_/s/asp_structural.md`
+From: `encyclopedia_E/disciplines_ot_academic/_/s/asp_structural.md`
 
 > Structural refers to the arrangement, organization, and configuration of elements within any domain of knowledge or system.
 
 ### behavior
-From: `glossaries/disciplines_ot_academic/concepts_ot_core/entity/system/_/b/asp_behavior.md`
+From: `encyclopedia_E/disciplines_ot_academic/concepts_ot_core/entity/system/_/b/asp_behavior.md`
 
 > Behavior refers to the actions, responses, or reactions of an entity or system in response to internal states, external stimuli, or interactions with other entities.
 
 ### structure
-From: `glossaries/disciplines_ot_academic/concepts_ot_core/entity/system/_/s/asp_structure.md`
+From: `encyclopedia_E/disciplines_ot_academic/concepts_ot_core/entity/system/_/s/asp_structure.md`
 
 > Structure refers to the arrangement, organization, and configuration of elements within a system or entity, focusing on how components are positioned, connected, and structured to form coherent wholes. 

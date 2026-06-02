@@ -32,11 +32,11 @@ In core concepts, measurement is fundamental to empirical knowledge, scientific 
 
 **Related Concepts**:
 ### quantity
-From: `glossaries/disciplines_ot_academic/concepts_ot_core/_/q/quantity.md`
+From: `encyclopedia_E/disciplines_ot_academic/concepts_ot_core/_/q/quantity.md`
 
 > A property of a phenomenon, body, or system that can be measured or expressed as a numerical value, typically in relation to a unit of measurement.
 
 ### attribute
-From: `glossaries/disciplines_ot_academic/concepts_ot_core/_/a/attribute.md`
+From: `encyclopedia_E/disciplines_ot_academic/concepts_ot_core/_/a/attribute.md`
 
 > A distinguishing property or characteristic of an entity that can be measured, observed, or described.

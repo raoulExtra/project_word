@@ -1,11 +1,11 @@
----
+```yaml
 id: encyclopedia
 name: Encyclopedia
 kind: concept
 status: active
 domain: engineering_of_knowledge
 extends: engineering_of_knowledge_guide
----
+```
 
 # Encyclopedia
 
@@ -34,11 +34,11 @@ In the engineering of knowledge, an encyclopedia represents a deliberate knowled
 
 **Related Concepts**:
 ### knowledge
-From: `glossaries/disciplines_ot_academic/foundations_ot_academic/concepts_ot_core/_/k/def_knowledge.md`
+From: `encyclopedia_E/disciplines_ot_academic/foundations_ot_academic/concepts_ot_core/_/k/def_knowledge.md`
 
 > The theoretical or practical understanding of facts, information, or a skill acquired through experience or study.
 
 ### information
-From: `glossaries/disciplines_ot_academic/foundations_ot_academic/concepts_ot_core/_/i/def_information.md`
+From: `encyclopedia_E/disciplines_ot_academic/foundations_ot_academic/concepts_ot_core/_/i/def_information.md`
 
 > Data that has been processed, organized, or interpreted to provide meaning or value.

@@ -36,7 +36,7 @@ A glossary system is a structured collection of definitions organized by domain,
 
 ### Directory Organization
 ```
-glossaries/
+encyclopedia_E/
 ├── computing/
 ├── disciplines_ot_academic/
 │   ├── _/

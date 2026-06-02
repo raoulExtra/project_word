@@ -31,11 +31,11 @@ In core concepts, quantity is foundational to all empirical sciences and mathema
 **Related terms**: measure, attribute, dimension, numerical
 **Related Concepts**:
 ### measure
-From: `glossaries/disciplines_ot_academic/concepts_ot_core/_/m/measure.md`
+From: `encyclopedia_E/disciplines_ot_academic/concepts_ot_core/_/m/measure.md`
 
 > A standardized quantity used to express the magnitude, amount, or extent of a property, enabling comparison and analysis through calibrated units.
 
 ### attribute
-From: `glossaries/disciplines_ot_academic/concepts_ot_core/_/a/attribute.md`
+From: `encyclopedia_E/disciplines_ot_academic/concepts_ot_core/_/a/attribute.md`
 
 > A distinguishing property or characteristic of an entity that can be measured, observed, or described.

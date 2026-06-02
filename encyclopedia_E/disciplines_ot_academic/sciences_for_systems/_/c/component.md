@@ -34,6 +34,6 @@ In systems theory and ontology engineering, components are the basic elements th
 
 **Related Aspects**:
 ### structural
-From: `glossaries/disciplines_ot_academic/_/s/asp_structural.md`
+From: `encyclopedia_E/disciplines_ot_academic/_/s/asp_structural.md`
 
 > Structural refers to the arrangement, organization, and configuration of elements within any domain of knowledge or system, focusing on how components are positioned, connected, and structured to form coherent wholes.
