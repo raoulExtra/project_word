@@ -32,15 +32,6 @@ Priority domains and terms for initial article development, derived from:
 - Relationship
 - Property
 
-## Foundational Concepts
-
-- Information
-- Knowledge
-- Concept
-- Ontology
-- Structure
-- System
-
 ## Core Principles
 
 - Coherence
