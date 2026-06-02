@@ -26,42 +26,7 @@ Priority order:
 2. Create articles with clear, stable definitions
 3. Build lower-level articles that reference these foundations
 
-## Priority Domains and Terms
-
-The following domains and terms should be prioritized for initial article development:
-
-**Abstract Concepts:**
-- Information
-- Knowledge
-- Concept
-- Idea
-- Meaning
-- Signal
-- Symbol
-
-**Systems and Structure:**
-- System
-- Structure
-- Organization
-- Framework
-- Model
-- Architecture
-
-**Ontology and Logic:**
-- Ontology
-- Category
-- Type
-- Instance
-- Relationship
-- Property
-
-**Encyclopedia E Specific:**
-- Article
-- Entry
-- Definition
-- Reference
-- Citation
-- Meta
+See `focus_ot_initial/000_focus_initial.md` for priority domains and terms.
 
 [[AI_LOCK-]]
 

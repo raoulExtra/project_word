@@ -22,33 +22,7 @@ Rather than waiting for a complete external foundation, we build the encyclopedi
 
 This approach enables practical progress while maintaining quality through iterative refinement.
 
-## Priority Domains and Terms
-
-The following domains and terms should be prioritized for initial article development:
-
-**Foundational Concepts:**
-- Information
-- Knowledge
-- Concept
-- Ontology
-- Structure
-- System
-
-**Core Principles:**
-- Coherence
-- Consistency
-- Quality
-- Foundation
-- Reference
-
-**Encyclopedia E Specific:**
-- Encyclopedia
-- Article
-- Entry
-- Definition
-- Meta
-- Rationale
-- Ratio (principle)
+See `focus_ot_initial/000_focus_initial.md` for priority domains and terms.
 
 [[AI_LOCK-]]
 
