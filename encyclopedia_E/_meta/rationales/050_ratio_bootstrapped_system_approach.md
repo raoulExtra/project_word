@@ -42,6 +42,7 @@ The following domains and terms should be prioritized for initial article develo
 - Reference
 
 **Encyclopedia E Specific:**
+- Encyclopedia
 - Article
 - Entry
 - Definition
