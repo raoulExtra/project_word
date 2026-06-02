@@ -15,3 +15,5 @@ The meta layer defines:
 - Rules that ensure consistency and quality across all entries (rationale 010)
 - Why we use a bootstrapped system approach (rationale 050)
 - Why high-level concepts must be established before lower-level articles (rationale 060)
+
+See `focus_ot_initial/PRIORITY_DOMAINS_AND_TERMS.md` for initial article priorities.
