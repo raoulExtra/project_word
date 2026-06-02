@@ -14,6 +14,8 @@ IDE: Visual Studio Code
 Used Extension: Kilo Code
 Used Model now: Poolside/Laguna XS.2
 Revisor: raoulExtra
+Active Aspects: encyclopedia,ontology,article
+Active Skill: motivation-required
 
 ## Change History
 

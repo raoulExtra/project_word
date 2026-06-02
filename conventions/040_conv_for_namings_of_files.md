@@ -5,7 +5,7 @@ kind: convention
 tags:
 - filename
 status: active
-version: V00.10.00
+version: V00.14.00
 updated: '2026-06-01'
 ```
 
@@ -90,6 +90,12 @@ All files in `draft/sub_proj/processor_for_files/` already follow the convention
 
 The directory name `processor_for_files` follows the `<noun>_<connector>_<noun>` pattern.
 
+#### Rename Examples
+
+- `010_rule_for_ai_lock_markers.md` → `010_rule_for_markers_ot_ai_lock.md`
+- `conv_for_ai_lock_markers.md` → `conv_for_markers_ot_ai_lock.md`
+- Demonstrates: `<number>_<kind>_<noun>_<connector>_<noun>` pattern
+
 **Note:** For files in `_/` subdirectories, see `030_conv_filename_by_term_start.md` - files should be organized by the first letter of the term name, not the prefix.
 
 ### Rationale
@@ -121,3 +127,4 @@ The directory name `processor_for_files` follows the `<noun>_<connector>_<noun>`
 | V00.11.00 | 2026-06-01 | raoulExtra | Poolside/Laguna XS.2 | Update pos_splitting requirement with three-level structure |
 | V00.12.00 | 2026-06-01 | raoulExtra | Poolside/Laguna XS.2 | Add abbrevs_and_unknown_words requirement |
 | V00.13.00 | 2026-06-01 | raoulExtra | Poolside/Laguna XS.2 | Add testing_with_words requirement |
+| V00.14.00 | 2026-06-02 | assistant | Poolside/Laguna XS.2 | Add rename examples demonstrating connector pattern |
