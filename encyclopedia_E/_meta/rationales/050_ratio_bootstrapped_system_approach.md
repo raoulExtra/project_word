@@ -10,7 +10,7 @@ updated: '2026-06-02'
 ## Rationale
 
 [[AI_LOCK+]]
-Encyclopedia E adopts a bootstrapped system approach where foundational elements are built incrementally from within the system itself. This allows the encyclopedia to establish its own internal consistency and structure without requiring external perfection.
+**Encyclopedia E** adopts a bootstrapped system approach where foundational elements are built incrementally from within the system itself. This allows the encyclopedia to establish its own internal consistency and structure without requiring external perfection.
 
 ## Guiding Principle
 
@@ -21,6 +21,33 @@ Rather than waiting for a complete external foundation, we build the encyclopedi
 4. Allowing the system to bootstrap itself toward greater coherence
 
 This approach enables practical progress while maintaining quality through iterative refinement.
+
+## Priority Domains and Terms
+
+The following domains and terms should be prioritized for initial article development:
+
+**Foundational Concepts:**
+- Information
+- Knowledge
+- Concept
+- Ontology
+- Structure
+- System
+
+**Core Principles:**
+- Coherence
+- Consistency
+- Quality
+- Foundation
+- Reference
+
+**Encyclopedia E Specific:**
+- Article
+- Entry
+- Definition
+- Meta
+- Rationale
+- Ratio (principle)
 
 [[AI_LOCK-]]
 

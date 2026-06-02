@@ -8,6 +8,7 @@ updated: '2026-06-02'
 ```
 
 ## Rationale
+
 [[AI_LOCK+]]
 Articles for high-level, foundational concepts must be created before lower-level articles. High-level concepts exert significant influence on AI guiding aspects—the way AI interprets, applies, and reasons about the encyclopedia's content.
 
@@ -24,6 +25,43 @@ Priority order:
 1. Identify and define high-level concepts
 2. Create articles with clear, stable definitions
 3. Build lower-level articles that reference these foundations
+
+## Priority Domains and Terms
+
+The following domains and terms should be prioritized for initial article development:
+
+**Abstract Concepts:**
+- Information
+- Knowledge
+- Concept
+- Idea
+- Meaning
+- Signal
+- Symbol
+
+**Systems and Structure:**
+- System
+- Structure
+- Organization
+- Framework
+- Model
+- Architecture
+
+**Ontology and Logic:**
+- Ontology
+- Category
+- Type
+- Instance
+- Relationship
+- Property
+
+**Encyclopedia E Specific:**
+- Article
+- Entry
+- Definition
+- Reference
+- Citation
+- Meta
 
 [[AI_LOCK-]]
 
