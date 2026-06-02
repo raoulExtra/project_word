@@ -8,6 +8,7 @@ updated: '2026-06-02'
 ```
 
 ## Rationale
+
 [[AI_LOCK+]]
 Encyclopedia E adopts a bootstrapped system approach where foundational elements are built incrementally from within the system itself. This allows the encyclopedia to establish its own internal consistency and structure without requiring external perfection.
 
