@@ -13,4 +13,4 @@ The meta layer defines:
 - Why articles should be unified through AI-supported normalization
 - Why knowledge should be grounded in Wikimedia information
 - Rules that ensure consistency and quality across all entries
-- Why high-level concepts must be established before lower-level articles
+- Why we use a bootstrapped system approach for building the encyclopedia
