@@ -12,8 +12,21 @@ updated: '2026-06-02'
 [[AI_LOCK+]]
 **Encyclopedia E** adopts a bootstrapped system approach where foundational elements are built incrementally from within the system itself. This allows the encyclopedia to establish its own internal consistency and structure without requiring external perfection.
 
+[[AI_LOCK-]]
+
+## Expected Benefits
+
+[[AI_LOCK+]]
+- **Practical progress**: Enables building without waiting for perfect external foundations
+- **Internal consistency**: Self-referential refinement ensures coherent structure
+- **Iterative improvement**: Definitions evolve through internal consistency checks
+- **Self-bootstrapping**: System grows toward greater coherence organically
+
+[[AI_LOCK-]]
+
 ## Guiding Principle
 
+[[AI_LOCK+]]
 Rather than waiting for a complete external foundation, we build the encyclopedia by:
 1. Starting with minimal viable high-level concepts
 2. Expanding articles as the system reveals new connections
