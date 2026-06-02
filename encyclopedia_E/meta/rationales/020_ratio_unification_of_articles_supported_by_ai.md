@@ -8,8 +8,17 @@ updated: '2026-05-31'
 ```
 
 ## Rationale
+[[AI_LOCK+]]
+Knowledge fragmentation occurs when the same concept is represented differently across domains (e.g., "rule" in law vs cybernetics). This creates silos that hinder comprehensive understanding and AI reasoning. 
 
+By unifying articles through normalization, consolidation, and alignment, we ensure:
+- Shared concepts are explicitly linked rather than duplicated
+- E.g. AI systems can traverse concepts across domains without ambiguity
+- The encyclopedia maintains ontological coherence while preserving domain-specific nuances
+- Cross-domain insights emerge naturally from the unified structure
 
+This approach enables AI to reason consistently across the full conceptual landscape rather than relying on isolated domain perspectives that may be present in its training data.
+[[AI_LOCK-]]
 
 ## Expected Benefits
 

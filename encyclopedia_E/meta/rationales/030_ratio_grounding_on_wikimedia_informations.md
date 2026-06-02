@@ -8,19 +8,13 @@ updated: '2026-06-02'
 ```
 
 ## Rationale
-
-In our articles, if we do things alternate to e.g. wikimedia, we try to bring a rationale for it.
-
-## Expected Benefits
-
-- **Consistency**: Articles maintain clear reasoning for deviations from Wikimedia standards.
-- **Transparency**: Readers can understand why certain choices were made.
-- **Maintainability**: Future editors can trace the logic behind content decisions.
-- **Credibility**: Explicit rationales strengthen the foundation of the encyclopedia.
+[[AI_LOCK+]]
+When creating or modifying articles in **Encyclopedia E** , deviations from Wikimedia standards, guidelines, or common practices will be accompanied by a clear explanation. This ensures that our editorial decisions are intentional, documented, and justifiable rather than arbitrary. The rationale should explain why the deviation serves our encyclopedia's purpose better than simply reuse Wikimedia norms.
 
 ## Guiding Principle
 
-When deviating from Wikimedia standards or practices, document the reason in the article rationale.
+Every different grounding must be purposeful and documented with a rationale that demonstrates how it benefits the article's quality or our encyclopedia's goals.
+[[AI_LOCK-]]
 
 ## Change History
 
