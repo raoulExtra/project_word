@@ -21,4 +21,4 @@ A signal is a detectable physical quantity or impulse (such as a voltage, curren
 ## Context
 Signals are fundamental in physics, electrical engineering, and information theory. They represent the physical manifestation of information and are essential for all communication systems.
 
-**Related aspects**: asp_theoretical, asp_practical, asp_applied, asp_core, asp_abstract
+**Related aspects**: asp_theoretical, asp_practical, asp_applied, asp_core, asp_abstract, asp_electrical

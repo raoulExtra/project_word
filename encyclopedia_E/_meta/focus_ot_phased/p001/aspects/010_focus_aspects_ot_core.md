@@ -14,3 +14,4 @@ updated: '2026-06-02'
 - asp_applied
 - asp_core
 - asp_abstract
+- asp_electrical

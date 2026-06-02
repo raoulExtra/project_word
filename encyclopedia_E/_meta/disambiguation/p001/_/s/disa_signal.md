@@ -22,6 +22,7 @@ Signal can be mapped to the following core aspects:
 | asp_applied | Implemented in electronics, telecommunications |
 | asp_core | Fundamental to information transmission |
 | asp_abstract | Mathematical representation of information carrier |
+| asp_electrical | Electrical circuits, power systems, electronics |
 
 ## Disambiguation by Usage
 
@@ -34,5 +35,6 @@ Signal usage across contexts:
 | asp_everyday | Common understanding of indication |
 | asp_ai | Sensor data, machine learning inputs |
 | asp_publishing | Technical documentation |
+| asp_electrical | Circuit design, power systems |
 
 Usage frequency: High (H) - central to engineering and physics
